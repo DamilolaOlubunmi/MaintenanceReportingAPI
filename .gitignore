@@ -1,0 +1,28 @@
+MaintenanceReportingAPI.csproj
+MaintenanceReportingAPI.sln
+MaintenanceReportingAPI.http
+Hall_Maintenance.sqbpro
+Hall_Maintenance.sql
+
+appsettings*.json
+
+*.dll
+*.pdb
+*.so
+# Local SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.log
